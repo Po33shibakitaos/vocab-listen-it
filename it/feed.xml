@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>単語聞き流し イタリア語</title>
+    <link>https://po33shibakitaos.github.io/vocab-listen-it/</link>
+    <language>it</language>
+    <description>イタリア語の単語を級ごとに聞き流す自分用の番組（イタリア語A1・イタリア語A2・イタリア語B1）。級はシーズンで分かれています。</description>
+    <itunes:author>単語聞き流し</itunes:author>
+    <itunes:image href="https://po33shibakitaos.github.io/vocab-listen-it/it/cover.png"/>
+    <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>イタリア語A1 第1回 単語1〜185</title>
+      <description>イタリア語A1の単語 1-185 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/a1-01.mp3" length="11239866" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-a1-ep01</guid>
+      <pubDate>Wed, 25 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1404</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語A1 第2回 単語186〜370</title>
+      <description>イタリア語A1の単語 186-370 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/a1-02.mp3" length="11848892" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-a1-ep02</guid>
+      <pubDate>Wed, 25 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1481</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語A1 第3回 単語371〜555</title>
+      <description>イタリア語A1の単語 371-555 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/a1-03.mp3" length="11937212" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-a1-ep03</guid>
+      <pubDate>Wed, 25 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1492</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語A1 第4回 単語556〜738</title>
+      <description>イタリア語A1の単語 556-738 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/a1-04.mp3" length="11428220" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-a1-ep04</guid>
+      <pubDate>Wed, 25 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1428</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語A2 第1回 単語1〜201</title>
+      <description>イタリア語A2の単語 1-201 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/a2-01.mp3" length="13398138" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-a2-ep01</guid>
+      <pubDate>Thu, 26 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1674</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語A2 第2回 単語202〜402</title>
+      <description>イタリア語A2の単語 202-402 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/a2-02.mp3" length="13551356" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-a2-ep02</guid>
+      <pubDate>Thu, 26 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1693</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語A2 第3回 単語403〜603</title>
+      <description>イタリア語A2の単語 403-603 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/a2-03.mp3" length="13189436" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-a2-ep03</guid>
+      <pubDate>Thu, 26 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1648</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語A2 第4回 単語604〜804</title>
+      <description>イタリア語A2の単語 604-804 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/a2-04.mp3" length="13483196" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-a2-ep04</guid>
+      <pubDate>Thu, 26 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1685</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語A2 第5回 単語805〜1003</title>
+      <description>イタリア語A2の単語 805-1003 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/a2-05.mp3" length="13193277" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-a2-ep05</guid>
+      <pubDate>Thu, 26 Nov 2026 06:05:00 +0900</pubDate>
+      <itunes:duration>1649</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語B1 第1回 単語1〜189</title>
+      <description>イタリア語B1の単語 1-189 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/b1-01.mp3" length="12988026" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-b1-ep01</guid>
+      <pubDate>Fri, 27 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1623</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語B1 第2回 単語190〜378</title>
+      <description>イタリア語B1の単語 190-378 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/b1-02.mp3" length="13173500" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-b1-ep02</guid>
+      <pubDate>Fri, 27 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1646</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語B1 第3回 単語379〜567</title>
+      <description>イタリア語B1の単語 379-567 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/b1-03.mp3" length="12699068" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-b1-ep03</guid>
+      <pubDate>Fri, 27 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1587</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語B1 第4回 単語568〜756</title>
+      <description>イタリア語B1の単語 568-756 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/b1-04.mp3" length="12564092" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-b1-ep04</guid>
+      <pubDate>Fri, 27 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1570</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語B1 第5回 単語757〜945</title>
+      <description>イタリア語B1の単語 757-945 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/b1-05.mp3" length="12783356" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-b1-ep05</guid>
+      <pubDate>Fri, 27 Nov 2026 06:05:00 +0900</pubDate>
+      <itunes:duration>1597</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語B1 第6回 単語946〜1134</title>
+      <description>イタリア語B1の単語 946-1134 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/b1-06.mp3" length="12461949" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-b1-ep06</guid>
+      <pubDate>Fri, 27 Nov 2026 06:06:00 +0900</pubDate>
+      <itunes:duration>1557</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語B1 第7回 単語1135〜1323</title>
+      <description>イタリア語B1の単語 1135-1323 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/b1-07.mp3" length="12901054" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-b1-ep07</guid>
+      <pubDate>Fri, 27 Nov 2026 06:07:00 +0900</pubDate>
+      <itunes:duration>1612</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>イタリア語B1 第8回 単語1324〜1506</title>
+      <description>イタリア語B1の単語 1324-1506 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-it/it/b1-08.mp3" length="12402622" type="audio/mpeg"/>
+      <guid isPermaLink="false">it-b1-ep08</guid>
+      <pubDate>Fri, 27 Nov 2026 06:08:00 +0900</pubDate>
+      <itunes:duration>1550</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
